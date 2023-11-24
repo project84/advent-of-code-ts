@@ -18,6 +18,7 @@
     "typescript": "^5.3.2"
   },
   "dependencies": {
+    "reflect-metadata": "^0.1.13",
     "tsyringe": "^4.8.0"
   }
 }
