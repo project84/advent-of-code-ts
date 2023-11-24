@@ -1,0 +1,10 @@
+{
+    "singleQuote": true,
+    "endOfLine": "auto",
+    "printWidth": 80,
+    "smei": true,
+    "tabWidth": 2,
+    "quoteProps": "as-needed",
+    "bracketSpacing": true,
+    "arrowParens": "always"
+}
