@@ -1,0 +1,24 @@
+{
+  "name": "advent-of-code-ts",
+  "version": "1.0.0",
+  "description": "Advent of code puzzle solver (typescript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GNU GPLv3",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.12.0",
+    "@typescript-eslint/parser": "^6.12.0",
+    "eslint": "^8.54.0",
+    "eslint-config-prettier": "^9.0.0",
+    "prettier": "3.1.0",
+    "tsx": "^4.4.0",
+    "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "tsyringe": "^4.8.0"
+  }
+}
