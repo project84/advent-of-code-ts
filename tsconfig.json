@@ -1,7 +1,10 @@
 {
-  "include": ["*.ts"],
+  "include": ["**/*.ts"],
   "compilerOptions": {
+    "lib": ["ESNext", "DOM"],
+    "module": "NodeNext",
+    "target": "ESNext",
     "experimentalDecorators": true,
-    "emitDecoratorMetadata": true
+    "moduleResolution": "NodeNext"
   }
 }
